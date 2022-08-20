@@ -1,0 +1,5 @@
+<meta>
+	<info author="C4N" type="script" name="KRP Araba Yıkama Sistemi" />
+	<script src="c_krp_arabayikama.lua" type="client" cache="false" />
+	<script src="s_krp_arabayikama.lua" type="server" />
+</meta>
